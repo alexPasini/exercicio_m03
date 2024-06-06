@@ -1,0 +1,13 @@
+Sobre o HTML:
+
+	De acordo com a minha pesquisa, o HTML é a parte primordial pra qualquer aplicação web, sendo ela o esqueleto de tudo, sendo ela a parte mais bruta, porém fundamental, tendo em vista que sem ela nenhuma das outras duas linguagens usadas para desenvolvimento web (CSS, JavaScript) poderiam fazer suas devidas função no desenvolvimento web.
+
+
+Sobre o CSS:
+
+	O CSS em sua premissa serve única e exclusivamente para a parte de embelezamento da aplicação web sendo ele toda a parte estetica, mas não deixando de ser muito importante. Como diz seu nome CSS (Cascading Style Sheet), a sua implementação funciona exatamente como uma cascata, estilizando a parte bruta (HTML) de cima para baixo e seguindo uma ordem lógica.
+
+
+Sobre o JavaScript:
+
+	O JavaScript em si trabalha principalmente a parte dinâmica da aplicação, tornando a aplicação web mais interativa e manipulavel pelo usuário da aplicação, permitindo a implementação de comportamentos e funcionalidades através de eventos.
